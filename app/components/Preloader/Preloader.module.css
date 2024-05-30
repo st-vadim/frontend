@@ -1,0 +1,9 @@
+.preloader {
+  text-align: center;
+  margin: 100px 0;
+}
+
+.preloader img {
+  width: 300px;
+  height: 300px;
+}
