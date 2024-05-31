@@ -1,5 +1,5 @@
 export const BASE_URL =
-  "https://frontend-23-sotov.nomorepartiesco.ru/api";
+  "https://backend-23-sotov.nomorepartiesco.ru/api";
 
 export const endpoints = {
   games: `${BASE_URL}/games`,
